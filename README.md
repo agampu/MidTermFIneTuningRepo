@@ -10,7 +10,6 @@ This repository contains the code and documentation for fine-tuning embedding mo
 ├── evaluation_results/        # Model evaluation results and metrics
 ├── generate_prompt_eval_data.py   # Script to generate evaluation dataset
 ├── prompt_evaluation.py       # Script for evaluating prompt retrieval
-├── evaluate_embeddings.py     # Core embedding evaluation utilities
 ├── finetune_embeddings.py     # Fine-tuning script for embedding models
 ├── FineTuningStrategy.md      # Detailed fine-tuning strategy documentation
 ├── FineTuningEmbeddingModels.md  # Fine-tuning results and analysis

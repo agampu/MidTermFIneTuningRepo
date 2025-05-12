@@ -165,7 +165,6 @@ class PromptRetriever:
 
 ### Code and Models
 - [Fine-tuning Script](finetune_embeddings.py)
-- [Evaluation Script](evaluate_embeddings.py)
 - [Hugging Face Model](https://huggingface.co/geetach/prompt-retrieval-midterm-finetuned)
 
 ### Documentation
