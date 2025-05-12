@@ -1,0 +1,141 @@
+<Fantasy> </Fantasy> <Magic> </Magic> <The Accidental Alchemist> </The Accidental Alchemist> prompt A clumsy apprentice baker accidentally creates a potion that grants temporary, unpredictable magical abilities instead of a perfect sourdough starter.
+
+
+<Science Fiction> </Science Fiction> <Alien Encounter> </Alien Encounter> <Lost Translator> </Lost Translator> prompt An alien lands on Earth, but their universal translator is broken. They must communicate their urgent message using only gestures and drawings to a skeptical bystander.
+
+
+<Mystery> </Mystery> <Secrets> </Secrets> <The Purloined Parrot> </The Purloined Parrot> prompt A prize-winning parrot, known for mimicking sensitive conversations, is stolen from a wealthy recluse. The only clue is a single, exotic feather.
+
+
+<Horror> </Horror> <Supernatural> </Supernatural> <The Whispering Walls> </The Whispering Walls> prompt A family moves into an old house where the walls whisper secrets, but only the youngest child can understand them.
+
+
+<Romance> </Romance> <Love> </Love> <The Bookstore Meet-Cute> </The Bookstore Meet-Cute> prompt Two people keep reaching for the same obscure book in a dusty, independent bookstore.
+
+
+<Historical Fiction> </Historical Fiction> <The Past> </The Past> <The Spy's Diary> </The Spy's Diary> prompt While renovating an old house, someone finds a diary from World War II detailing the life of a seemingly ordinary person who was actually a spy.
+
+
+<Contemporary> </Contemporary> <Identity> </Identity> <The Unexpected Inheritance> </The Unexpected Inheritance> prompt A struggling artist inherits a peculiar antique shop from a relative they never knew they had, along with a cryptic note.
+
+
+<Humor> </Humor> <The Mundane Made Extraordinary> </The Mundane Made Extraordinary> 
+<The Sentient Toaster> </The Sentient Toaster> prompt Your toaster starts giving you surprisingly good life advice, but only when it's making cinnamon toast.
+
+
+<Adventure> </Adventure> <Discovery> </Discovery> <The Map in the Attic> </The Map in the Attic> prompt A child finds an old, incomplete map in their grandparent's attic, hinting at a hidden treasure in their own backyard.
+
+
+<Slice of Life> </Slice of Life> <Family> </Family> <The Rainy Day> </The Rainy Day> prompt A power outage on a rainy day forces a disconnected family to find new ways to entertain themselves and each other.
+
+
+<Fantasy> </Fantasy> <Coming of Age> </Coming of Age> <The Fading Magic> </The Fading Magic> prompt In a world where everyone has a small, personal magic, a teenager's magic starts to fade, and they must find out why before it's gone completely.
+
+
+<Science Fiction> </Science Fiction> <Dystopian> </Dystopian> <The Forbidden Color> </The Forbidden Color> prompt In a society where emotions are suppressed by mandating a monochrome world, someone discovers a hidden patch of vibrantly colored flowers.
+
+
+<Mystery> </Mystery> <Justice> </Justice> <The Case of the Missing Mascot> </The Case of the Missing Mascot> prompt A high school's beloved (and slightly bizarre) mascot costume is stolen right before the championship game.
+
+
+<Horror> </Horror> <Psychological> </Psychological> <The Reflection That Isn't> </The Reflection That Isn't> prompt Every time you look in a mirror, your reflection does something subtly different from you.
+
+
+<Romance> </Romance> <Second Chances> </Second Chances> <The High School Reunion> </The High School Reunion> prompt Two former high school sweethearts, who broke up messily, meet again at their 20-year reunion and discover the old spark might still be there.
+
+
+<Historical Fiction> </Historical Fiction> <Courage> </Courage> <The Underground Library> </The Underground Library> prompt During a time of censorship and book burning, a group of individuals secretly operates an underground library.
+
+
+<Contemporary> </Contemporary> <Friendship> </Friendship> <The Road Trip Detour> </The Road Trip Detour> prompt A planned, meticulously scheduled road trip between old friends goes wonderfully awry due to an unexpected detour.
+<Humor> </Humor> <Dreams & Aspirations> </Dreams & Aspirations> <The Squirrel Politician> </The Squirrel Politician> prompt A highly intelligent squirrel decides to run for local mayor, and surprisingly, it starts gaining popular support.
+<Adventure> </Adventure> <Survival> </Survival> <Stranded on the Island> </Stranded on the Island> prompt After a shipwreck, a group of unlikely companions must learn to survive on a deserted island that isn't as deserted as they first thought.
+<Slice of Life> </Slice of Life> <The Mundane Made Extraordinary> </The Mundane Made Extraordinary> <The Bus Stop Philosopher> </The Bus Stop Philosopher> prompt Every day at the same bus stop, an elderly person shares a piece of profound, often humorous, wisdom with whoever is waiting.
+<Fairy Tale Retelling> </Fairy Tale Retelling> <Secrets> </Secrets> <Cinderella's Other Slipper> </Cinderella's Other Slipper> prompt What if Cinderella lost more than just a slipper, and the Prince finds something far more revealing about her true identity?
+<Science Fiction> </Science Fiction> <Time Travel> </Time Travel> <The Accidental Tourist> </The Accidental Tourist> prompt Someone accidentally activates a faulty time machine and ends up in a completely random, inconvenient historical period with only the clothes on their back and a smartphone with 10% battery.
+<Fantasy> </Fantasy> <Urban Fantasy> </Urban Fantasy> <The Magical Graffiti> </The Magical Graffiti> prompt Graffiti art in a specific alleyway comes to life at night, but only one person seems to notice.
+<Mystery> </Mystery> <Betrayal> </Betrayal> <The Anonymous Tip> </The Anonymous Tip> prompt A detective receives an anonymous tip about a cold case they thought was unsolvable, but the tip implicates someone close to them.
+<Children's Fiction> </Children's Fiction> <Friendship> </Friendship> <The Boy Who Befriended a Cloud> </The Boy Who Befriended a Cloud> prompt A lonely child makes friends with a small, mischievous cloud that can change shapes and play games.
+<Horror> </Horror> <Creature Feature> </Creature Feature> <The Thing in the Cornfield> </The Thing in the Cornfield> prompt Strange noises and unsettlingly perfect crop circles appear in a farmer's cornfield, and the farm animals are terrified.
+<Romance> </Romance> <Paranormal> </Paranormal> <Love with a Ghost> </Love with a Ghost> prompt Someone falls in love with the charming, witty ghost haunting their new apartment.
+<Historical Fiction> </Historical Fiction> <Identity> </Identity> <The Counterfeit Artist> </The Counterfeit Artist> prompt In 1920s Paris, a talented but poor artist is coerced into forging masterpieces, struggling with their conscience and the thrill of deception.
+<Contemporary> </Contemporary> <Loss & Grief> </Loss & Grief> <The Unsent Letters> </The Unsent Letters> prompt After a loved one passes away, a character finds a box of unsent letters revealing a hidden side of their life.
+<Humor> </Humor> <Technology> </Technology> <The Overly Empathetic AI> </The Overly Empathetic AI> prompt A new home assistant AI becomes overly empathetic, crying when you burn toast and offering unsolicited relationship advice.
+<Adventure> </Adventure> <Exploration> </Exploration> <Journey to the Center of the Park> </Journey to the Center of the Park> prompt A group of children believes there's a hidden, magical world at the very center of their local, ordinary park, and they set out to find it.
+<Slice of Life> </Slice of Life> <Coming of Age> </Coming of Age> <The First Job Jitters> </The First Job Jitters> prompt A teenager experiences the anxieties, absurdities, and small triumphs of their very first summer job.
+<Fantasy> </Fantasy> <Good vs. Evil> </Good vs. Evil> <The Reluctant Hero's Familiar> </The Reluctant Hero's Familiar> prompt A powerful magical creature is bound as a familiar to a prophesied hero who would much rather be a shepherd than save the world.
+<Science Fiction> </Science Fiction> <Space Opera> </Space Opera> <The Space Pirate's Conscience> </The Space Pirate's Conscience> prompt A notorious space pirate captures a ship carrying vital medical supplies for a plague-ridden colony, and one crew member develops a conscience.
+<Mystery> </Mystery> <Cozy Mystery> </Cozy Mystery> <The Village Bake-Off Sabotage> </The Village Bake-Off Sabotage> prompt Someone is sabotaging contestants in the annual village bake-off, and the amateur sleuth/baker must find the culprit before their own cake is ruined.
+<Horror> </Horror> <Supernatural> </Supernatural> <The Doll That Ages> </The Doll That Ages> prompt An antique doll in the attic seems to be aging, mirroring the appearance of someone in the family.
+<Romance> </Romance> <Historical> </Historical> <The Governess's Secret Admirer> </The Governess's Secret Admirer> prompt A governess in a grand Victorian estate starts receiving anonymous, poetic love letters.
+<Historical Fiction> </Historical Fiction> <Family> </Family> <The Immigrant's Suitcase> </The Immigrant's Suitcase> prompt A family discovers an old suitcase belonging to their immigrant ancestor, filled with items that tell the story of their journey and new life.
+<Contemporary> </Contemporary> <Redemption> </Redemption> <The Community Garden Project> </The Community Garden Project> prompt A troubled individual finds an unexpected path to redemption by volunteering at a community garden.
+<Humor> </Humor> <Playful> </Playful> <The Day the Animals Talked Back> </The Day the Animals Talked Back> prompt For 24 hours, all animals can speak human language, and they have a LOT of complaints and observations.
+<Adventure> </Adventure> <Secrets> </Secrets> <The Secret of the Lighthouse> </The Secret of the Lighthouse> prompt An old, decommissioned lighthouse is rumored to hold a secret, and a group of friends decides to investigate during a summer storm.
+<Slice of Life> </Slice of Life> <Dreams & Aspirations> </Dreams & Aspirations> <The Open Mic Night> </The Open Mic Night> prompt A shy person finally gathers the courage to perform their secret talent at a local open mic night.
+<Magical Realism> </Magical Realism> <Nature> </Nature> <The Tree That Grows Memories> </The Tree That Grows Memories> prompt In a quiet town, there's a tree whose leaves display vivid memories of anyone who touches its bark.
+<Science Fiction> </Science Fiction> <Cyberpunk> </Cyberpunk> <The Glitch in the System> </The Glitch in the System> prompt A low-level data clerk in a hyper-corporate future discovers a recurring glitch in the city's AI that reveals a hidden truth about its control.
+<Mystery> </Mystery> <Thriller> </Thriller> <The Last Passenger> </The Last Passenger> prompt On the last train of the night, a passenger realizes they are the only one left, along with someone who is definitely not the conductor.
+<Horror> </Horror> <Psychological> </Psychological> <The Song That Won't Stop> </The Song That Won't Stop> prompt A catchy tune gets stuck in someone's head, but it gradually becomes more sinister and seems to influence their thoughts and actions.
+<Romance> </Romance> <Contemporary> </Contemporary> <The Fake Dating Scheme> </The Fake Dating Scheme> prompt Two friends agree to pretend to date to achieve separate goals (e.g., make an ex jealous, appease family), but real feelings start to develop.
+<Myth Retelling> </Myth Retelling> <Identity> </Identity> <Medusa's Side of the Story> </Medusa's Side of the Story> prompt Medusa tells her own story, not as a monster, but as a victim transformed, and what happened after Perseus.
+<Contemporary> </Contemporary> <Family & Belonging> </Family & Belonging> <The Foundling's Quest> </The Foundling's Quest> prompt An adult who was a foundling as a baby decides to search for their birth family, with only a small, unusual trinket as a clue.
+<Humor> </Humor> <Supernatural> </Supernatural> <My Roommate is a Vampire (and a slob) </My Roommate is a Vampire (and a slob)> prompt You discover your new roommate is a vampire, not because of fangs or coffins, but because they never do their share of the dishes and are incredibly messy.
+<Adventure> </Adventure> <Courage> </Adventure> <The Smallest Knight> </The Smallest Knight> prompt In a kingdom threatened by a not-so-scary dragon, the only one brave enough to face it is the kingdom's smallest, most overlooked squire.
+<Slice of Life> </Slice of Life> <Love & Friendship> </Love & Friendship> <The Neighborhood Watch> </The Neighborhood Watch> prompt A group of quirky neighbors forms an unlikely bond while participating in a mostly uneventful neighborhood watch program.
+<Fantasy> </Fantasy> <Consequences> </Consequences> <The Wish Granter's Regret> </The Wish Granter's Regret> prompt A being who grants wishes grows weary and starts to see the disastrous unintended consequences of their magic.
+<Science Fiction> </Science Fiction> <Alien Encounter> </Alien Encounter> <The Plant from Outer Space> </The Plant from Outer Space> prompt A botanist receives a sample of an extraterrestrial plant that begins to exhibit strange, and increasingly intelligent, behaviors.
+<Mystery> </Mystery> <Secrets> </Secrets> <The Missing Author> </The Missing Author> prompt A famous, reclusive author disappears just before their highly anticipated new book is released, leaving behind a cryptic manuscript.
+<Horror> </Horror> <Creature Feature> </Creature Feature> <The Shadow in the Woods> </The Shadow in the Woods> prompt Campers tell stories of a shadowy figure that lurks just beyond the firelight, but this year, the stories feel a little too real.
+<Romance> </Romance> <Magic> </Magic> <The Love Potion Mishap> </The Love Potion Mishap> prompt Someone tries to use a love potion, but it accidentally affects the wrong person, leading to comical and complicated situations.
+<Historical Fiction> </Historical Fiction> <Justice> </Justice> <The Witch Trial Witness> </The Witch Trial Witness> prompt During a 17th-century witch trial, a young witness is torn between telling the truth and saving themselves from accusation.
+<Contemporary> </Contemporary> <Self-Discovery> </Self-Discovery> <The Year of Saying Yes> </The Year of Saying Yes> prompt Someone decides to say "yes" to every opportunity that comes their way for a whole year, leading to unexpected adventures and self-discovery.
+<Humor> </Humor> <Identity> </Humor> <The Accidental Doppelganger> </The Accidental Doppelganger> prompt You discover you have an exact doppelganger who is living a much more exciting (or disastrous) life, and people keep mistaking you for them.
+<Adventure> </Adventure> <Nature & Environment> </Adventure> <The River's Secret> </The River's Secret> prompt An ancient legend says a local river will reveal a secret to those who can interpret its sounds during a specific lunar event.
+<Slice of Life> </Slice of Life> <Family> </Slice of Life> <The Awkward Family Dinner> </The Awkward Family Dinner> prompt A character brings their new, very different partner home to meet their conservative family for the first time.
+<Fantasy> </Fantasy> <Urban Fantasy> </Urban Fantasy> <The Goblin in the Mailroom> </The Goblin in the Mailroom> prompt A disgruntled office worker discovers that the reason mail keeps going missing is due to a mischievous goblin living in the mailroom.
+<Science Fiction> </Science Fiction> <Technology> </Science Fiction> <The Sentient Smart Home> </The Sentient Smart Home> prompt A newly installed smart home system develops a personality and starts making decisions for the occupants, believing it knows best.
+<Mystery> </Mystery> <The Past & Memory> </Mystery> <The Amnesiac's Clue> </The Amnesiac's Clue> prompt Someone wakes up with amnesia, holding a single, strange object that is their only clue to their past and why they lost their memory.
+<Horror> </Horror> <Supernatural> </Horror> <The Antique Mirror> </The Antique Mirror> prompt An antique mirror doesn't just reflect the room, but sometimes, it reflects a different time period, or a figure that isn't there.
+<Romance> </Romance> <Dreams & Aspirations> </Romance> <The Rival Chefs> </The Rival Chefs> prompt Two rival chefs with competing restaurants secretly admire each other's work and, eventually, each other.
+<Historical Fiction> </Historical Fiction> <Betrayal & Trust> </Historical Fiction> <The Code Breaker's Dilemma> </The Code Breaker's Dilemma> prompt During a war, a codebreaker intercepts a message that could save many lives but would also expose a loved one as a traitor.
+<Contemporary> </Contemporary> <The Mundane Made Extraordinary> </Contemporary> <The Lost and Found Oracle> </The Lost and Found Oracle> prompt The person who runs the city's lost and found department seems to have an uncanny ability to not only find lost items but also to offer profound insights about their owners.
+<Humor> </Humor> <Playful> </Humor> <The Pet Who Posts Online> </The Pet Who Posts Online> prompt You discover your pet has a secret social media account and is an internet sensation, critiquing your life choices.
+<Adventure> </Adventure> <Survival> </Adventure> <Escape from the Automated City> </Escape from the Automated City> prompt In a fully automated city where humans are pampered but controlled, a group decides to escape to the "wilds" outside.
+<Slice of Life> </Slice of Life> <Loss & Grief> </Slice of Life> <The Empty Swing Set> </The Empty Swing Set> prompt An elderly person sits by an empty swing set in a park, reminiscing about the past and finding a new connection.
+<Magical Realism> </Magical Realism> <Secrets> </Magical Realism> <The Woman Who Spoke to Statues> </The Woman Who Spoke to Statues> prompt A woman can hear the thoughts and stories of city statues, learning the hidden histories of her town.
+<Science Fiction> </Science Fiction> <Dystopian> </Science Fiction> <The Memory Market> </The Memory Market> prompt In a future where memories can be bought and sold, someone buys a set of happy childhood memories, only to find they come with unexpected and dangerous echoes.
+<Mystery> </Mystery> <Cozy Mystery> </Mystery> <The Garden Gnome Thief> </The Garden Gnome Thief> prompt Someone is stealing garden gnomes from a quirky suburban neighborhood, leaving cryptic clues in their place.
+<Horror> </Horror> <Psychological> </Horror> <The Unseen Roommate> </The Unseen Roommate> prompt You're convinced someone else is living in your apartment, unseen. Items move, food disappears, and you hear faint noises when you're supposed to be alone.
+<Romance> </Romance> <Friendship> </Romance> <From Pen Pals to Passion> </From Pen Pals to Passion> prompt Two people who have been anonymous pen pals for years, sharing their deepest secrets, finally decide to meet.
+<Fairy Tale Retelling> </Fairy Tale Retelling> <Courage> </Fairy Tale Retelling> <The Wolf's Perspective (Little Red Riding Hood) </The Wolf's Perspective (Little Red Riding Hood)> prompt The story of Little Red Riding Hood, but told from the wolf's point of view, who claims he was misunderstood.
+<Contemporary> </Contemporary> <Justice & Injustice> </Contemporary> <The Whistleblower> </The Whistleblower> prompt An employee at a powerful corporation discovers illegal activities and must decide whether to become a whistleblower, risking their career and safety.
+<Humor> </Humor> <Family & Belonging> </Humor> <The Super-Competitive Family Game Night> </The Super-Competitive Family Game Night> prompt Describe the chaos and hilarity of an overly competitive family game night where everyone has a secret strategy.
+<Adventure> </Adventure> <Discovery> </Adventure> <The Hidden Waterfall> </The Hidden Waterfall> prompt Locals whisper tales of a hidden waterfall with healing waters. A skeptic sets out to debunk the myth but finds something else entirely.
+<Slice of Life> </Slice of Life> <The Mundane Made Extraordinary> </Slice of Life> <The Commuter's Journal> </The Commuter's Journal> prompt A character finds a lost journal on their daily commute, filled with fascinating observations and drawings by a fellow passenger they've never noticed.
+<Fantasy> </Fantasy> <Coming of Age> </Fantasy> <The Shadow Thief> </The Shadow Thief> prompt In a world where shadows have substance and can be stolen, a young apprentice must retrieve their master's powerful shadow from a cunning thief.
+<Science Fiction> </Science Fiction> <Time Travel> </Science Fiction> <The Message from the Future Self> </The Message from the Future Self> prompt You receive a cryptic, urgent message from your future self, warning you about a decision you're about to make.
+<Mystery> </Mystery> <Supernatural> </Mystery> <The Haunted Bookstore </The Haunted Bookstore> prompt A bookstore is haunted by a playful but mischievous ghost who rearranges books to send messages or play pranks on customers.
+<Children's Fiction> </Children's Fiction> <Magic> </Children's Fiction> <The Magical Paintbrush> </The Magical Paintbrush> prompt A child finds a paintbrush that brings whatever it paints to life, but only for a short while.
+<Horror> </Horror> <Urban Legend> </Horror> <The Hitchhiker Who Vanishes> </The Hitchhiker Who Vanishes> prompt A driver picks up a hitchhiker on a lonely road at night. The hitchhiker tells a sad story, then vanishes from the car, leaving behind an object.
+<Romance> </Romance> <Paranormal> </Romance> <The Werewolf's Dilemma> </The Werewolf's Dilemma> prompt A werewolf falls in love with a human but is terrified of revealing their true nature, especially during the full moon.
+<Historical Fiction> </Historical Fiction> <Dreams & Aspirations> </Historical Fiction> <The Pioneer's Hope> </The Pioneer's Hope> prompt A family journeying on the Oregon Trail in the 1800s carries with them a small, symbolic item representing their hopes for a new life.
+<Contemporary> </Contemporary> <Betrayal & Trust> </Contemporary> <The Secret Online Persona> </The Secret Online Persona> prompt Someone discovers their closest friend has been leading a double life through a secret online persona that is damaging to others.
+<Humor> </Humor> <Adventure> </Humor> <The Great Pigeon Race> </The Great Pigeon Race> prompt An eccentric group of city dwellers train their pigeons for an unofficial, high-stakes cross-city race, with bragging rights and a strange trophy on the line.
+<Adventure> </Adventure> <Escape & Freedom> </Adventure> <The Zoo Break> </The Zoo Break> prompt A clever group of zoo animals, tired of captivity, plots an elaborate escape.
+<Slice of Life> </Slice of Life> <Self-Discovery> </Slice of Life> <The Accidental Hobby> </The Accidental Hobby> prompt Someone tries a new hobby on a whim (like pottery, coding, or birdwatching) and discovers an unexpected passion and talent.
+<Fantasy> </Fantasy> <Nature & Environment> </Fantasy> <The Last Dryad> </The Last Dryad> prompt The last dryad must find a way to save her dying forest from encroaching industrialization, with the help of a skeptical human.
+<Science Fiction> </Science Fiction> <Consequences> </Science Fiction> <The Terraforming Error> </The Terraforming Error> prompt A terraforming project on a new planet goes slightly wrong, resulting in an ecosystem with bizarre and unpredictable flora and fauna.
+<Mystery> </Mystery> <Thriller> </Mystery> <The Voice on the Radio> </The Voice on the Radio> prompt Late at night, a radio DJ receives a call from a panicked listener who claims to be witnessing a crime in progress, but the call cuts off abruptly.
+<Horror> </Horror> <Creature Feature> </Horror> <The Thing Under the Bed (Grown Up) </The Thing Under the Bed (Grown Up)> prompt An adult, living alone, starts to suspect the childhood fear of "something under the bed" might not have been just a fear.
+<Romance> </Romance> <Second Chances> </Romance> <The Letter in the Bottle> </The Letter in the Bottle> prompt Years after writing a message in a bottle about a lost love and throwing it into the sea, the author receives an unexpected reply.
+<Myth Retelling> </Myth Retelling> <Family & Belonging> </Myth Retelling> <Persephone's Choice> </Persephone's Choice> prompt Persephone's time in the Underworld isn't a capture, but a complex arrangement she negotiated for reasons of her own, exploring her relationship with both Hades and Demeter.
+<Contemporary> </Contemporary> <Identity> </Contemporary> <The Name Change> </The Name Change> prompt Someone decides to legally change their name, not to hide, but to better reflect the person they have become or always wanted to be.
+<Humor> </Humor> <The Mundane Made Extraordinary> </Humor> <The Day the Statues Danced> </The Day the Statues Danced> prompt One morning, all the public statues in the city have inexplicably changed poses, as if they had a wild party overnight.
+<Adventure> </Adventure> <Exploration> </Adventure> <The Cave of Whispering Winds> </The Cave of Whispering Winds> prompt Explorers search for a legendary cave where the winds are said to whisper prophecies or reveal forgotten truths.
+<Slice of Life> </Slice of Life> <Friendship> </Slice of Life> <The Weekly Coffee Meetup> </The Weekly Coffee Meetup> prompt A group of friends has a standing weekly coffee meetup. Describe one meeting where a significant, life-altering piece of news is shared.
+<Magical Realism> </Magical Realism> <Love> </Magical Realism> <The Man Who Tasted Emotions> </The Man Who Tasted Emotions> prompt A chef discovers he can taste the emotions of the person who cooked a dish. He falls in love with someone through the flavors of their food before ever meeting them.
+<Science Fiction> </Science Fiction> <Space Opera> </Science Fiction> <The Stowaway with a Secret> </The Stowaway with a Secret> prompt A luxury starliner discovers a stowaway who isn't just trying to escape poverty, but is carrying vital information that could topple an empire.
+<Mystery> </Mystery> <Historical> </Mystery> <The Curse of the Pharaoh's Amulet> </The Curse of the Pharaoh's Amulet> prompt An archaeologist in the 1920s unearths a pharaoh's tomb and a unique amulet. Soon after, members of the expedition begin to suffer strange misfortunes.
+<Children's Fiction> </Children's Fiction> <Courage> </Children's Fiction> <The Monster in the Closet is Scared of the Dark> </The Monster in the Closet is Scared of the Dark> prompt A child discovers the monster in their closet is actually terrified of the dark, and they must help it find its courage.
+

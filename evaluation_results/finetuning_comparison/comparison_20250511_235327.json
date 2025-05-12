@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-05-11 23:53:27",
+  "base_model": "all-MiniLM-L6-v2",
+  "finetuned_model": "models/finetuned_all-MiniLM-L6-v2_20250511_235219",
+  "metrics": {
+    "precision@1": {
+      "base": 0.6672932330827067,
+      "finetuned": 0.8947368421052632,
+      "improvement": 0.22744360902255645,
+      "relative_improvement": 34.084507042253534
+    },
+    "precision@3": {
+      "base": 0.4461152882205503,
+      "finetuned": 0.6879699248120287,
+      "improvement": 0.24185463659147838,
+      "relative_improvement": 54.213483146067475
+    },
+    "precision@5": {
+      "base": 0.3943609022556365,
+      "finetuned": 0.6169172932330801,
+      "improvement": 0.22255639097744356,
+      "relative_improvement": 56.4346997140137
+    },
+    "mrr": {
+      "base": 0.7136784041036535,
+      "finetuned": 0.931031447666786,
+      "improvement": 0.21735304356313256,
+      "relative_improvement": 30.455320255363166
+    },
+    "ndcg@5": {
+      "base": 0.5693878800061999,
+      "finetuned": 0.9340231091795448,
+      "improvement": 0.3646352291733449,
+      "relative_improvement": 64.03986491060795
+    }
+  }
+}
