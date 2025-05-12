@@ -2,6 +2,13 @@
 
 This document outlines the comprehensive strategy used for fine-tuning embedding models for creative writing prompt retrieval.
 
+## Workflow Summary
+
+1. **Generate Evaluation Data:** Use `generate_prompt_eval_data.py` to create a golden test dataset of queries and prompts.
+2. **Evaluate Baseline Models:** Use `prompt_evaluation.py` to benchmark and select the best pre-trained embedding model.
+3. **Fine-tune the Best Model:** Use `finetune_embeddings.py` to train the selected model on your dataset.
+4. **Evaluate Fine-tuned Model:** Use `prompt_evaluation.py` again to compare the fine-tuned model against the baseline.
+
 ## 1. Problem Definition
 
 ### Goal
@@ -103,7 +110,7 @@ Create an embedding model that can effectively retrieve creative writing prompts
 
 ### Evaluation Process
 1. Split dataset into train/test
-2. Evaluate both base and fine-tuned models
+2. Evaluate both base and fine-tuned models using `prompt_evaluation.py`
 3. Compare performance across metrics
 4. Generate detailed comparison reports
 
@@ -165,6 +172,7 @@ class PromptRetriever:
 
 ### Code and Models
 - [Fine-tuning Script](finetune_embeddings.py)
+- [Evaluation Script](prompt_evaluation.py)
 - [Hugging Face Model](https://huggingface.co/geetach/prompt-retrieval-midterm-finetuned)
 
 ### Documentation

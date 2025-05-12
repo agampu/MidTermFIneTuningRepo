@@ -32,6 +32,44 @@ The project follows a clear three-step workflow:
     *   The final step involves fine-tuning the selected baseline model (`all-MiniLM-L6-v2`).
     *   This script also utilizes `data/prompt_evaluation_dataset.csv`, using it (or deriving training examples from it) to further train and adapt the chosen embedding model specifically for improved performance on this particular dataset and task.
 
+## Quick Start Example
+
+Here's how to run the three main scripts in order:
+
+1. **Generate the evaluation dataset:**
+   ```bash
+   python generate_prompt_eval_data.py
+   # Output:
+   # Generated 532 evaluation examples
+   # Example queries:
+   # Query: Find a Fantasy writing prompt
+   # Relevance: 1.0
+   # Context: <Fantasy> ...
+   ```
+
+2. **Evaluate baseline models:**
+   ```bash
+   python prompt_evaluation.py
+   # Output:
+   # Loaded 532 evaluation examples
+   # Evaluating different embedding models...
+   # Evaluating all-MiniLM-L6-v2
+   # precision@1: 0.547
+   # ...
+   # Evaluation results saved to evaluation_results/eval_results_YYYYMMDD_HHMMSS.json
+   # Evaluation report saved to evaluation_results/evaluation_report_YYYYMMDD_HHMMSS.md
+   ```
+
+3. **Fine-tune the best model:**
+   ```bash
+   python finetune_embeddings.py
+   # Output:
+   # Loaded 532 evaluation examples
+   # Training epoch 1/3 ...
+   # Final training loss: ...
+   # Fine-tuned model saved to: models/finetuned_all-MiniLM-L6-v2_YYYYMMDD_HHMMSS
+   ```
+
 ## Setup
 
 1. Clone the repository:
