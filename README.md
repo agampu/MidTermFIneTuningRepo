@@ -1,6 +1,7 @@
 ## RAGAS based Finetuning Embedding Model Performance Summary
 
 We compared the original `all-MiniLM-L6-v2` model with the its finetuned version using the ragas generated query/prompt data (`finetuned-prompt-retriever`).
+Hugging Face: [geetach/finetuned-prompt-retriever]https://huggingface.co/geetach/finetuned-prompt-retriever
 
 The finetuning **did improve** the model's performance across all measured aspects.
 
@@ -104,7 +105,6 @@ model = SentenceTransformer('geetach/prompt-retrieval-midterm-finetuned')
 
 ### Model Location
 - Hugging Face Hub: [geetach/prompt-retrieval-midterm-finetuned](https://huggingface.co/geetach/prompt-retrieval-midterm-finetuned)
-- Local Path: `models/finetuned_all-MiniLM-L6-v2_20250511_235648`
 
 ## Next Steps
 1. Monitor model performance in production
