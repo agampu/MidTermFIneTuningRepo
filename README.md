@@ -1,6 +1,6 @@
-## RAGAS based Finetuning Embedding Model Performance Summary
+## LLM based RAGAS-like Finetuning Embedding Model Performance Summary
 
-We compared the original `all-MiniLM-L6-v2` model with the its finetuned version using the ragas generated query/prompt data (`finetuned-prompt-retriever`).
+We compared the original `all-MiniLM-L6-v2` model with the its finetuned version using the LLM based generated query/prompt data (`finetuned-prompt-retriever`).
 Hugging Face: [geetach/finetuned-prompt-retriever]https://huggingface.co/geetach/finetuned-prompt-retriever
 
 The finetuning **did improve** the model's performance across all measured aspects.
@@ -17,8 +17,15 @@ Here's a breakdown:
 
 The finetuning process made the model slightly better at matching relevant writing prompts to potential search queries. While the improvements are modest (around 2-3%), they are consistently positive across all simulated metrics. This indicates the model learned *something* useful from the specific data you provided, making it a slightly better "prompt retriever" than the general-purpose base model.
 
-## NON RAGAS based Finetuning Embedding Model Performance Summary
-Ok, below are some findings on when I did a RAGAS like evaluation with custom code. So, I could control for my use case better.
+Here is what the LLM-based Simulated-Ragas code does:
+
+- Uses an LLM's help to generate the golden dataset
+- It takes that query, context, and a SentenceTransformer model.
+- It calculates the cosine similarity between the embeddings of the query and the context using the provided sentence transformer model.
+- Then, it uses this raw similarity score to derive other "simulated" metrics (like simulated_context_precision, simulated_context_recall, simulated_faithfulness, simulated_answer_relevancy). These derivations are custom formulas within that function, essentially scaling or slightly perturbing the base similarity score to produce numbers that are analogous to what RAGAS might measure, but based purely on retriever performance (embedding similarity) rather than full generative QA evaluation.
+
+## NON LLM based Finetuning Embedding Model Performance Summary
+Ok, below are some findings on when I did a RAGAS like evaluation with custom code. Without using LLMS. So, I could control for my use case better.
 
 ## Model Details
 - Base Model: `all-MiniLM-L6-v2`
