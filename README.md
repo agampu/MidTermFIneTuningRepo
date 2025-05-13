@@ -1,4 +1,6 @@
-## LLM based RAGAS-like Finetuning Embedding Model Performance Summary
+# LLM based RAGAS-like Finetuning Embedding Model Performance Summary
+
+This is from code in ragas_finetune_evaluate.py (confusing name - its ragas like)
 
 We compared the original `all-MiniLM-L6-v2` model with the its finetuned version using the LLM based generated query/prompt data (`finetuned-prompt-retriever`).
 Hugging Face: [geetach/finetuned-prompt-retriever]https://huggingface.co/geetach/finetuned-prompt-retriever
@@ -24,12 +26,10 @@ Here is what the LLM-based Simulated-Ragas code does:
 - It calculates the cosine similarity between the embeddings of the query and the context using the provided sentence transformer model.
 - Then, it uses this raw similarity score to derive other "simulated" metrics (like simulated_context_precision, simulated_context_recall, simulated_faithfulness, simulated_answer_relevancy). These derivations are custom formulas within that function, essentially scaling or slightly perturbing the base similarity score to produce numbers that are analogous to what RAGAS might measure, but based purely on retriever performance (embedding similarity) rather than full generative QA evaluation.
 
-## NON LLM based Finetuning Embedding Model Performance Summary
-Ok, below are some findings on when I did a RAGAS like evaluation with custom code. Without using LLMS. So, I could control for my use case better.
 
 ## Model Details
 - Base Model: `all-MiniLM-L6-v2`
-- Finetuned Model: `ragas_results/finetuned_all-MiniLM-L6-v2_20250512_152546`
+- Finetuned Model: https://huggingface.co/geetach/finetuned-prompt-retriever
 
 ## Metrics Comparison (Simulated RAGAS)
 
@@ -52,40 +52,28 @@ Ok, below are some findings on when I did a RAGAS like evaluation with custom co
 - Relative improvement: 2.0%
 
 
-Fine-Tuning Embedding Models for Creative Writing Prompts
+# Some non LLM based fun I had with doing heuristic algorithms based eval pipeline.
 
 ## Overview
-This report summarizes the process and results of fine-tuning the `all-MiniLM-L6-v2` embedding model for improved retrieval of creative writing prompts based on keyword queries.
+This is code in generate_prompt_eval_data.py (golden test dataset) and prompt_evaluation.py (compare a few candidates for what should be our base model) and just for kicks and hipefully NOT added confusion: finetune_embeddings.py to finetune the chosen base model using the non llm golden test dataset we just generated.
 
-## Process Steps
+## Comparsion of base models
 
-1. **Data Preparation**
-   - Used 532 creative writing prompts with genre and theme tags
-   - Generated 932 training examples using positive and negative pairs
-   - Created keyword-based queries from prompt content and tags
+| Metric | all-MiniLM-L6-v2 | all-mpnet-base-v2 | Difference | Better Model |
+|--------|------------------|-------------------|------------|--------------|
+| Precision@1 | 0.767 | 0.800 | +0.033 | all-mpnet-base-v2 |
+| Precision@3 | 0.578 | 0.578 | 0.000 | Tie |
+| Precision@5 | 0.427 | 0.560 | +0.133 | all-mpnet-base-v2 |
+| MRR | 0.133 | 0.133 | 0.000 | Tie |
+| NDCG@5 | 0.133 | 0.133 | 0.000 | Tie |
+| Context Precision | 0.370 | 0.329 | -0.041 | all-MiniLM-L6-v2 |
+| Context Recall | 0.359 | 0.315 | -0.044 | all-MiniLM-L6-v2 |
+| Semantic Similarity | 0.342 | 0.292 | -0.050 | all-MiniLM-L6-v2 |
+| Faithfulness | 0.387 | 0.350 | -0.037 | all-MiniLM-L6-v2 |
+| Answer Relevancy | 0.363 | 0.323 | -0.040 | all-MiniLM-L6-v2 |
+| Faithfulness Impact | 0.007 | -0.011 | -0.018 | all-MiniLM-L6-v2 |
 
-2. **Model Selection**
-   - Base Model: `all-MiniLM-L6-v2`
-   - Chosen for its balance of performance and efficiency
-   - Initial evaluation showed good baseline performance for semantic search
-
-3. **Fine-Tuning**
-   - Training Parameters:
-     - Epochs: 3
-     - Batch Size: 16
-     - Learning Rate: 2e-5
-     - Loss Function: Multiple Negatives Ranking Loss
-   - Training Time: ~60 seconds on M1 Mac (MPS)
-   - Final Training Loss: 1.33
-
-4. **Evaluation**
-   - Metrics:
-     - Precision@1, Precision@3, Precision@5
-     - Mean Reciprocal Rank (MRR)
-     - Normalized Discounted Cumulative Gain (NDCG@5)
-   - Test Dataset: Same prompts with keyword-based queries
-
-## Results
+## Results of this extra for-fun finetuning
 
 The fine-tuned model showed significant improvements over the base model:
 
@@ -97,23 +85,9 @@ The fine-tuned model showed significant improvements over the base model:
 | MRR | 0.193 | 0.224 | +16.1% |
 | NDCG@5 | 0.216 | 0.248 | +14.8% |
 
-## Recommendation
-
-The fine-tuned model demonstrates substantial improvements in retrieval performance, particularly in top-1 precision and mean reciprocal rank. We recommend using the fine-tuned model for production use.
-
-### How to Use
-
-The fine-tuned model is available on Hugging Face Hub:
-```python
-from sentence_transformers import SentenceTransformer
-
-model = SentenceTransformer('geetach/prompt-retrieval-midterm-finetuned')
-```
-
-### Model Location
 - Hugging Face Hub: [geetach/prompt-retrieval-midterm-finetuned](https://huggingface.co/geetach/prompt-retrieval-midterm-finetuned)
 
-## Next Steps
-1. Monitor model performance in production
-2. Collect user feedback for further improvements
-3. Consider periodic retraining with new prompts 
+## Why did I not use THIS finetuned model?
+
+ (it shows great improvement) BUT BUT - because this datset did not use LLMs and I think the LLM generated data is more robust.
+
